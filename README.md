@@ -7,11 +7,15 @@
 
 ## 🛠 Skill
 - Backend Engineering
+  Django, Flask
 - Frontend Engineering
+  HTML5, CSS3(SCSS), JS(ES6)
+- Data Science
 
 ## ✍🏻 interested in
 - clean code
 - Type system
+- Deep learning
 
 ### 📫 contact me
 - email - leecj0805@naver.com
