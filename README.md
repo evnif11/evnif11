@@ -11,12 +11,12 @@
 - Data Science
 
 ## ✍🏻 interested in
-- clean code
+- Clean code
 - Type system
 - Deep learning
 
 ### 📫 contact me
-- email - leecj0805@naver.com
+- Email - leecj0805@naver.com
 
 
 
