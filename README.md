@@ -15,6 +15,9 @@
 - Type system
 - Deep learning
 
+## 🍎 Notion
+- https://www.notion.so/TIL-b83d730dbb0a45eb801ef7c0bb6227e1
+
 ### 📫 contact me
 - Email - leecj0805@naver.com
 
